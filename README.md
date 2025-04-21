@@ -27,7 +27,7 @@ I recommend working through the notebooks carefully, especially the mathematical
 | Module | Topic | Colab | Key Concepts |
 |--------|-------|--------|--------------|
 | Part 1 | RL Basics & Policy Gradients | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lm_TI-Vrzai-WZQeZL3o7US07vVKWXlQ) | MDPs, Policies, Trajectories, Policy Gradient Theorem, Reward-to-go |
-| Part 2 | Discounting | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-gray?logo=google-colab&logoColor=white) | Temporal Discounting, Optimality for Infinite Horizons |
+| Part 2 | Discounting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UULTQYnymQOpa7nuaw6mDXnvWRV9R_2y) | Temporal Discounting, Convergence of Infinite Horizons, Variance Reduction |
 | Part 3 | Baselines & Advantage Estimation | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-gray?logo=google-colab&logoColor=white) | Value Functions, Advantage Functions, Variance Reduction |
 | Part 4 | Actor-Critic Methods | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-gray?logo=google-colab&logoColor=white) | Value Approximation, Policy-Value Learning |
 | Part 5 | GAE | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-gray?logo=google-colab&logoColor=white) | Generalised Advantage Estimation |

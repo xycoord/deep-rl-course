@@ -29,7 +29,7 @@
 > $a_t \sim \pi(\cdot|o_t)$
 > Equivalently, $\pi(a_t|o_t)$ is the probability that action $a_t$ is selected given observation $o_t$
 
-> An **experience** is the triple $(o_t, s_t, r_t)$
+> An **experience** is the triple $(o_t, a_t, r_t)$
 
 > A **trajectory** $\tau$ is a sequence of experiences from an agent interacting with its environment according to its policy until it reaches a terminal state or is truncated.
 
